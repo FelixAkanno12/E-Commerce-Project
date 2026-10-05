@@ -12,7 +12,7 @@ The project uses **Python, Pandas, Plotly, and Dash** to perform data analysis a
 
 ## 📓 Jupyter Notebook
 
-**[View the Data Analysis Notebook](#)**
+**[View the Data Analysis Notebook](https://github.com/FelixAkanno12/E-Commerce-Project/blob/main/Amazon_Ecommerce_Analytics_Project_version_5.ipynb)**
 
 The notebook contains the data analysis, visualization development, and exploratory work behind the dashboard.
 
