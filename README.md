@@ -8,7 +8,7 @@ The project uses **Python, Pandas, Plotly, and Dash** to perform data analysis a
 
 ## 📊 Live Interactive Dashboard
 
-**[Open the Live Dashboard](#)**
+**[Open the Live Dashboard](https://e-commerce-project-c6ez.onrender.com/)**
 
 ## 📓 Jupyter Notebook
 
